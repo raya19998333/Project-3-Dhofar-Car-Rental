@@ -46,11 +46,11 @@ The system tracks:
 
 ## 🧩 Features
 <div style="background-color:#fef4e8; padding:12px; border-radius:8px;">
-- ✅ Add new cars and customers  
-- ✅ Create rental transactions with automatic cost calculation  
-- ✅ Update car status automatically when rented or returned  
-- ✅ View available cars instantly  
-- ✅ Calculate total revenue generated  
+- ✅ Add new cars and customers  <br>
+- ✅ Create rental transactions with automatic cost calculation  <br>
+- ✅ Update car status automatically when rented or returned  <br>
+- ✅ View available cars instantly  <br>
+- ✅ Calculate total revenue generated  <br>
 - ✅ Simple console interface for testing and demonstrations  
 </div>
 
