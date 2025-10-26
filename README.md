@@ -58,20 +58,20 @@ The system tracks:
 
 ## ⚙️ Workflow
 <div style="background-color:#e8fdf5; padding:12px; border-radius:8px;">
-1️⃣ **Add Cars:** Add all cars with make, model, daily rate  
-2️⃣ **Add Customers:** Register customer details (name and phone)  
-3️⃣ **Create Rental Records:** Assign a car to a customer and specify rental days  
-4️⃣ **Update Status:** Cars rented are marked automatically; when returned, status changes  
-5️⃣ **Display Information:** List all rentals, available cars, and total revenue  
+1️⃣ Add Cars: Add all cars with make, model, daily rate  <br>
+2️⃣ Add Customers: Register customer details (name and phone)<br>  
+3️⃣ Create Rental Records: Assign a car to a customer and specify rental days  <br>
+4️⃣ Update Status: Cars rented are marked automatically; when returned, status changes  <br>
+5️⃣ Display Information: List all rentals, available cars, and total revenue  
 </div>
 
 ---
 
 ## ⚙️ Technologies Used
 <div style="background-color:#f0f4f8; padding:12px; border-radius:8px;">
-- **C#** (Console Application)  
-- **.NET Core / .NET 6**  
-- Object-Oriented Programming (OOP)  
+- C# (Console Application)  <br>
+- .NET Core / .NET 6 <br>
+- Object-Oriented Programming (OOP)  <br>
 - Lists, Enums, Classes, Encapsulation, Composition  
 </div>
 
