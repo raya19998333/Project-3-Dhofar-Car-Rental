@@ -6,6 +6,7 @@ namespace Project_4____Salalah_Sports_League_
     {
         static void Main(string[] args)
         {
+            //
             // Create cars
             Car car1 = new Car("Toyota", "Corolla", 50);
             Car car2 = new Car("Honda", "Civic", 60);
